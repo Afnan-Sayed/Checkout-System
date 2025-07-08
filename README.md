@@ -10,6 +10,11 @@ This Java-based console application simulates a simple e-commerce checkout syste
   - Print **shipment notice** with weight and item details.
   - Print **checkout receipt** with subtotal, shipping, total, and customer balance.
   - Validate corner cases: empty cart, insufficient balance, expired product, quantity over stock.
+---
+
+## Results of running
+- You will find ```app-console-output.png``` file which includes the result in the console after running AppController
+  ![app-console-output.png](images/app-console-output.png)
 
 ---
 
