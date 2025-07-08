@@ -1,4 +1,5 @@
-## ✅ Description
+# 🛒 E-commerce Checkout System
+## Description
 
 This Java-based console application simulates a simple e-commerce checkout system with the following features:
 
@@ -12,11 +13,23 @@ This Java-based console application simulates a simple e-commerce checkout syste
   - Validate corner cases: empty cart, insufficient balance, expired product, quantity over stock.
 ---
 
-## Results of running
+## Output after running
 - You will find ```app-console-output.png``` file which includes the result in the console after running AppController
   ![app-console-output.png](images/app-console-output.png)
 
 ---
 
-## 📦 Assumptions 
+## Assumptions 
 I noticed in the output console example that the shipping cost was 30 when the weight was nearly 1 kg (1.1kg → 30 EGP shipping), so I assumed the shipping cost is 30 EGP per kg.
+
+---
+## Run the Project
+1. Clone the repository:
+```
+git clone https://github.com/YourUsername/Checkout-System.git
+cd Checkout-System
+```
+2. Run AppController.java
+
+## Technologies Used
+Java
